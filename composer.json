@@ -1,0 +1,17 @@
+{
+    "name": "imwz/demo02",
+    "description": "hah",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Imwz\\Demo02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
